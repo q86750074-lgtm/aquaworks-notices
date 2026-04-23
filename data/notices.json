@@ -1,15 +1,6 @@
 {
   "notices": [
     {
-      "id": "2025-002",
-      "category": "important",
-      "title": "이미지테스트",
-      "content": "<p class=\"ql-align-center\"><img src=\"https://raw.githubusercontent.com/q86750074-lgtm/aquaworks-cdn/main/notices/notices_1760416191656_k81nkwo8xdd.jpg\" width=\"451\" height=\"166\"></p><p class=\"ql-align-center\">가운데</p><p class=\"ql-align-center\">정렬</p>",
-      "author": "관리자",
-      "date": "2025-10-14",
-      "isNew": false
-    },
-    {
       "id": "2025-001",
       "category": "general",
       "title": "일반",
