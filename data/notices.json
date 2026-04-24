@@ -1,3 +1,13 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "2026-001",
+      "category": "general",
+      "title": "테스트공지",
+      "content": "<p>테스트1234</p>",
+      "author": "관리자",
+      "date": "2026-04-24",
+      "isNew": true
+    }
+  ]
 }
